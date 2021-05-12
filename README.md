@@ -1,6 +1,9 @@
 # truffle-contracts
 truffle framework - compile smart contracts
 
+- SimpleStorage
+- RandomNumber: Use Provable to get a random nubmer
+- GetBTCPrice: Use Provable to get BTC current price
 ##  編譯專案
 $ truffle compile
 
