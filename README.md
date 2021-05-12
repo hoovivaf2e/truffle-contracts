@@ -1,5 +1,5 @@
 # truffle-contracts
-truffle framework - compile smart contracts
+truffle framework - compile smart contracts, provable examples
 
 - SimpleStorage
 - RandomNumber: Use Provable to get a random nubmer
